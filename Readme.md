@@ -65,7 +65,7 @@ cd whatsapp-driven-google-assistant
 pip install -r requirements.txt
 
 3. Configure Environment
-4. 
+   
 Create .env file from .env.example
 
 Add your Google Service Account JSON filename:
