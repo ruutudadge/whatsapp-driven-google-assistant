@@ -85,7 +85,7 @@ ngrok http 5000
 Copy the public URL shown (e.g., https://abcd1234.ngrok-free.app).
 
 6. Configure Twilio WhatsApp Sandbox
-7. 
+
 Go to Twilio Console → WhatsApp Sandbox
 
 Set WHEN A MESSAGE COMES IN →
@@ -95,7 +95,7 @@ https://abcd1234.ngrok-free.app/webhook
 Save.
 
 7. Test Commands
-8. 
+   
 Join sandbox (send join <code> to +14155238886), then try:
 
 
