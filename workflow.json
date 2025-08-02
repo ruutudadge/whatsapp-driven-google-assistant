@@ -1,0 +1,10 @@
+whatsapp-drive-assistant/
+│
+├── app.py                 # Flask webhook server
+├── drive_utils.py         # Google Drive helper functions
+├── ai_utils.py            # Summarization helper
+├── parser.py              # Command parsing
+├── log_utils.py           # Logging
+├── requirements.txt
+├── .env.example
+└── README.md
