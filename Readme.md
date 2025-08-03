@@ -41,17 +41,17 @@ ngrok → Local tunnel for webhook testing
 
 whatsapp-driven-google-assistant/
 │
-├── app.py                  # Flask application
-├── drive_utils.py          # Google Drive API functions
-├── ai_utils.py             # AI summarization
-├── parser.py               # Command parser
-├── log.py                  # Basic logging setup
-├── log_utils.py            # Log utilities
-├── requirements.txt        # Dependencies
-├── workflow.json           # n8n workflow (import-ready)
-├── .env.example            # Environment variable template
-├── .gitignore              # Ignored secrets
-└── README.md               # This file
+├── app.py                 
+├── drive_utils.py         
+├── ai_utils.py             
+├── parser.py              
+├── log.py                  
+├── log_utils.py            
+├── requirements.txt        
+├── workflow.json          
+├── .env.example           
+├── .gitignore             
+└── README.md               
 
 # ⚡ Setup Guide
 1. Clone Repo
