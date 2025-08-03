@@ -36,10 +36,9 @@ OpenAI GPT → AI-based summarization
 
 ngrok → Local tunnel for webhook testing
 
-📂 Project Structure
-graphql
-Copy
-Edit
+# 📂 Project Structure
+
+
 whatsapp-driven-google-assistant/
 │
 ├── app.py                  # Flask application
